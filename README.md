@@ -4,5 +4,5 @@
 Para rodar esse projeto digite:
 
 ''''
-npm install recact
+node app.js
 ''''
